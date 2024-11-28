@@ -1,4 +1,4 @@
-# Welcome to My GitHub Profile![Under process]
+# Welcome to My GitHub Profile!
 
 ![Your Banner Image](https://user-images.githubusercontent.com/65373279/148280039-301b677b-74e7-49f8-af75-15e7c9253d74.png)
 
@@ -17,9 +17,9 @@
   
 - **Tools**: 
   ![Git](https://img.shields.io/badge/-Git-red)
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/46/Git_icon_2022.svg" alt="Git" width="50"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="30"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Apache_HTTP_server_logo_%282019%29.svg" alt="Apache" width="30"/>
+  <img src="https://raw.githubusercontent.com/sempostma/office365-icons/refs/heads/master/png/256/excel.png" alt="Excel" width="30"/>
+  
   
 ## Contact Me
 - [LinkedIn](https://www.linkedin.com/in/yourprofile)
