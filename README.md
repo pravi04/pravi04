@@ -13,15 +13,9 @@
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   
 - **Tools**: 
-  ![Git](https://img.shields.io/badge/-Git-red) 
-
-## Projects
-### Project Name
-Description of the project. [Repository Link](https://github.com/yourusername/projectname)
-
-### Another Project Name
-Description of the project. [Repository Link](https://github.com/yourusername/anotherproject)
-
+  ![Git](https://img.shields.io/badge/-Git-red)
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="50"/>
+  
 ## Contact Me
 - [LinkedIn](https://www.linkedin.com/in/yourprofile)
 - [Email](mailto:youremail@example.com)
