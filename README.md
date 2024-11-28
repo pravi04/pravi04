@@ -9,8 +9,8 @@
 
 ## Skills
 - **Programming Languages**:
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++" width="50"/>
-  ![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=c%2B%2B)
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++" width="30"/>
+  
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="30"/>
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   
