@@ -15,7 +15,7 @@
   
 - **Tools**: 
   ![Git](https://img.shields.io/badge/-Git-red)
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="30"/>
+  ![Power BI](https://upload.wikimedia.org/wikipedia/commons/0/0e/Power_BI_Logo.svg)
   ![Excel](https://upload.wikimedia.org/wikipedia/commons/8/86/Microsoft_Excel_2013-2019_logo.svg)
   
 ## Contact Me
