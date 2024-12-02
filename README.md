@@ -20,7 +20,6 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="30"/>
   <img src="https://raw.githubusercontent.com/sempostma/office365-icons/refs/heads/master/png/256/excel.png" alt="Excel" width="30"/>
   
-  
 ## Contact Me
 - [LinkedIn](https://www.linkedin.com/in/yourprofile)
 - [Email](mailto:youremail@example.com)
