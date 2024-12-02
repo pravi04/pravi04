@@ -13,16 +13,16 @@
 ## 🛠️ Skills & Technologies
 
 ### Programming Languages:
-- ![C++](https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg) C++
-- ![Python](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg) Python
-- ![SQL](https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png) SQL
-- ![HTML](https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg) HTML
-- ![CSS](https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg) CSS
+- <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++" width="35"/>
+- <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="35"/>
+- <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="SQL" width="45"/>
+- <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML" width="40"/>
+- <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS" width="40"/>
 
 ### Tools:
-- ![Git](https://img.shields.io/badge/-Git-red)
-- ![Power BI](https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg)
-- ![Excel](https://raw.githubusercontent.com/sempostma/office365-icons/refs/heads/master/png/256/excel.png)
+- ![Git](https://img.shields.io/badge/-Git-red?style=flat&logo=git&logoColor=white)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="35"/>
+- <img src="https://raw.githubusercontent.com/sempostma/office365-icons/refs/heads/master/png/256/excel.png" alt="Excel" width="35"/>
 
 ---
 
@@ -34,8 +34,8 @@
 ---
 
 ## 📞 Get in Touch
-- [LinkedIn](https://www.linkedin.com/in/yourprofile) 
-- [Email](mailto:youremail@example.com)
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)
+- [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:youremail@example.com)
 
 ---
 
